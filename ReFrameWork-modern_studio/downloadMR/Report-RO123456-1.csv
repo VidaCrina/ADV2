@@ -1,0 +1,7 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+975423,"Beverages and Catering",2017-01-23,114876,22975.2,137851,CAD
+745786,"Beverages and Catering",2017-01-07,101257,20251.4,121508,EUR
+608273,"Various paper supplies",2017-01-27,221215,44243,265458,EUR
+492659,"Waste management services",2017-01-13,241389,48277.8,289667,RON
+558336,"Beverages and Catering",2017-01-13,233613,46722.6,280336,USD
+680169,"Waste management services",2017-01-05,222882,44576.4,267458,USD
